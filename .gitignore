@@ -1,0 +1,17 @@
+# directorios de configuracion
+.vscode
+
+# se ignora un archivo especifico
+texto_ignorado.txt
+
+# se ignora una carpeta
+archivos_ignorados/*
+
+# se ignora archivos especificos dentro de una carpeta
+*_carpeta/*.json
+
+#se va a ignorar carpetas anidadas o rutas completas
+#*_padre/**/*
+
+#todos los que estan dentro con extensiones txt
+*_padre/**/*.txt

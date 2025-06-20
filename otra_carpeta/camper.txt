@@ -1,0 +1,7 @@
+camper 1
+camper 2
+camper 3
+camper 4
+camper 5
+camper 6
+camper 7
